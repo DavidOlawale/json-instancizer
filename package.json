@@ -1,0 +1,22 @@
+{
+  "name": "object-instancizer",
+  "version": "1.0.0",
+  "description": "A typescript library that converts a json object to an instance of a class with properties and methods in Typescript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidOlawale/object-instancizer.git"
+  },
+  "keywords": [
+    "convert"
+  ],
+  "author": "Olawale David",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidOlawale/object-instancizer/issues"
+  },
+  "homepage": "https://github.com/DavidOlawale/object-instancizer#readme"
+}
